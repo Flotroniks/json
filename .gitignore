@@ -1,4 +1,7 @@
 # Prerequisites
+main.c
+
+# Prerequisites
 *.d
 
 # Compiled Object files
@@ -30,3 +33,7 @@
 *.exe
 *.out
 *.app
+
+
+# vscode
+.vscode/**
